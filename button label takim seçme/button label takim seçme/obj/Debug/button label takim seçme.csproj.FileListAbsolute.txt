@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\bin\Debug\button label takim seçme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\bin\Debug\button label takim seçme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\bin\Debug\button label takim seçme.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\obj\Debug\button label takim seçme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\obj\Debug\button label takim seçme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\obj\Debug\button_label_takim_seçme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\obj\Debug\button_label_takim_seçme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\obj\Debug\button label takim seçme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\obj\Debug\button label takim seçme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\obj\Debug\button label takim seçme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\button label takim seçme\button label takim seçme\obj\Debug\button label takim seçme.pdb
